@@ -8,3 +8,13 @@ header{
 .logo{
     height: 50%;
 }
+
+.author{
+    color: #808080;
+    line-height: 1px;
+}
+
+.author-link{
+    color: #20A9E5;
+    text-decoration: none;
+}
