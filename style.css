@@ -11,10 +11,28 @@ header{
 
 .author{
     color: #808080;
-    line-height: 1px;
+    
 }
 
 .author-link{
     color: #20A9E5;
     text-decoration: none;
+}
+
+.didascalia{
+font-size: 14px;
+}
+
+thead{
+    background-color: #20A9E5;
+    text-align: left;
+    color: #fff;
+}
+
+.bigger-cell{
+    width: 60%;
+}
+
+.pari{
+    background-color: #B1E5F2;
 }
