@@ -1,0 +1,11 @@
+header{
+    background-color: #4EA0FF;
+    background-image: url(img/pattern.png);
+    background-repeat: repeat-x;
+    height: 200px;
+}
+
+.logo{
+    text-align: left;
+    height: 50%;
+}
